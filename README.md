@@ -19,5 +19,9 @@ Compilation of resources &amp; docs about development with Python
   * course linkedn
   * ( [The Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/?couponCode=KEEPLEARNING) )
   * ( [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?couponCode=MT261012G1) )
-  
-_(last update 23.09.2026)_
+* tools 
+  * [JupyterLab](https://jupyter.org/#jupyterlab-a-next-generation-notebook-interface) as web-based interactive development environment for notebooks, code, and data
+* informations
+  * .ipynb file are [jupyter notebooks](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) that combine Markdown text and executable Python source code on one canvas called a notebok (supported in github)
+
+_(last update 19.10.2026)_

@@ -24,5 +24,6 @@ Compilation of resources &amp; docs about development with Python
 * informations
   * .ipynb file are [jupyter notebooks](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) that combine Markdown text and executable Python source code on one canvas called a notebok (supported in github)
   * [decimal](https://docs.python.org/3/library/decimal.html#module-decimal) module provides support for fast correctly rounded decimal floating-point arithmetic
+  * [defaultdict](https://docs.python.org/3/library/collections.html#collections.defaultdict) dict subclass that calls a factory function to supply missing values
 
 _(last update 19.10.2026)_

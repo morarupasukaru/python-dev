@@ -23,5 +23,6 @@ Compilation of resources &amp; docs about development with Python
   * [JupyterLab](https://jupyter.org/#jupyterlab-a-next-generation-notebook-interface) as web-based interactive development environment for notebooks, code, and data
 * informations
   * .ipynb file are [jupyter notebooks](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) that combine Markdown text and executable Python source code on one canvas called a notebok (supported in github)
+  * [decimal](https://docs.python.org/3/library/decimal.html#module-decimal) module provides support for fast correctly rounded decimal floating-point arithmetic
 
 _(last update 19.10.2026)_

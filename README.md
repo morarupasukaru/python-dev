@@ -13,8 +13,6 @@ Compilation of resources &amp; docs about development with Python
   * [Think Python](https://allendowney.github.io/ThinkPython/) by Allen B. Downey
   * [Awesome Python](https://github.com/vinta/awesome-python)
   * [Projects of Raspberry Pi Foundation](https://projects.raspberrypi.org/en/)
-  * [Python Essential Training](https://www.linkedin.com/learning/learning-python-25309312/learning-python?u=91308082) linkedin course
-  * [hidden features of Python](https://stackoverflow.com/questions/101268/hidden-features-of-python)
   * [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/) and [The Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
 * misc
   * *.ipynb files are [jupyter notebooks](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) that combine Markdown text and executable Python source code on one canvas called a notebok (supported in github)

@@ -23,13 +23,14 @@ Compilation of resources &amp; docs about development with Python
   * [JupyterLab](https://jupyter.org/#jupyterlab-a-next-generation-notebook-interface) as web-based interactive development environment for notebooks, code, and data
 * informations
   * .ipynb file are [jupyter notebooks](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) that combine Markdown text and executable Python source code on one canvas called a notebok (supported in github)
-  * [decimal](https://docs.python.org/3/library/decimal.html#module-decimal) module provides support for fast correctly rounded decimal floating-point arithmetic
   * [defaultdict](https://docs.python.org/3/library/collections.html#collections.defaultdict) dict subclass that calls a factory function to supply missing values
   * [list comprehensions](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions) provide a concise way to create lists (with filtering, etc.)
   * dictionary comprehension provide also a concise way to create dictionary
   * [for else](https://docs.python.org/3/tutorial/controlflow.html#else-clauses-on-loops) pattern, the else clause is executed after the loop finishes its final iteration, that is, if no break occurred.
+* python modules
+  * [decimal](https://docs.python.org/3/library/decimal.html#module-decimal) module provides support for fast correctly rounded decimal floating-point arithmetic
   * [threading](https://docs.python.org/3/library/threading.html) module to manage threads
   * [multiprocessing](https://docs.python.org/3/library/multiprocessing.html) or [multiprocess](https://pypi.org/project/multiprocess/) module to manage processes
-  * [csv](https://docs.python.org/3/library/csv.html), [json](https://docs.python.org/3/library/json.html#module-json), [argparse](https://docs.python.org/3/library/argparse.html) modules
+  * other interesting modules: [csv](https://docs.python.org/3/library/csv.html), [json](https://docs.python.org/3/library/json.html#module-json), [argparse](https://docs.python.org/3/library/argparse.html)
 
-_(last update 19.10.2026)_
+_(last update 26.10.2026)_

@@ -9,13 +9,11 @@ Compilation of resources &amp; docs about development with Python
   [language reference](https://docs.python.org/3/reference/),
   [faq](https://docs.python.org/3/faq/)
 * other resources  
-  * [Learn Python in Y minutes](https://learnxinyminutes.com/python/)
-  * [Think Python](https://allendowney.github.io/ThinkPython/) by Allen B. Downey
-  * [Awesome Python](https://github.com/vinta/awesome-python)
+  * [awesome python](https://github.com/vinta/awesome-python)
   * [Projects of Raspberry Pi Foundation](https://projects.raspberrypi.org/en/)
-  * [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
+  * [style guide for python code](https://peps.python.org/pep-0008/)
+  * [jupyter notebooks](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) (.ipynb files) combine Markdown text and executable Python source code on one * canvas called a notebok (supported in github)
 * misc
-  * *.ipynb files are [jupyter notebooks](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) that combine Markdown text and executable Python source code on one canvas called a notebok (supported in github)
   * [defaultdict](https://docs.python.org/3/library/collections.html#collections.defaultdict) dict subclass that calls a factory function to supply missing values
   * [list comprehensions](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions) provide a concise way to create lists (with filtering, etc.)
   * dictionary comprehension provide also a concise way to create dictionary

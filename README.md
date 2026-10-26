@@ -12,7 +12,7 @@ Compilation of resources &amp; docs about development with Python
   * [awesome python](https://github.com/vinta/awesome-python)
   * [Projects of Raspberry Pi Foundation](https://projects.raspberrypi.org/en/)
   * [style guide for python code](https://peps.python.org/pep-0008/)
-  * [jupyter notebooks](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) (.ipynb files) combine Markdown text and executable Python source code on one * canvas called a notebok (supported in github)
+  * [jupyter notebooks](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) (.ipynb files) combine Markdown and Python code (supported in github)
 * misc
   * [defaultdict](https://docs.python.org/3/library/collections.html#collections.defaultdict) dict subclass that calls a factory function to supply missing values
   * [list comprehensions](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions) provide a concise way to create lists (with filtering, etc.)

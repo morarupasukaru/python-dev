@@ -18,10 +18,12 @@ Compilation of resources &amp; docs about development with Python
   * [list comprehensions](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions) provide a concise way to create lists (with filtering, etc.)
   * dictionary comprehension provide also a concise way to create dictionary
   * [for else](https://docs.python.org/3/tutorial/controlflow.html#else-clauses-on-loops) pattern, the else clause is executed after the loop finishes its final iteration, that is, if no break occurred.
-* python modules
-  * [decimal](https://docs.python.org/3/library/decimal.html#module-decimal) module provides support for fast correctly rounded decimal floating-point arithmetic
-  * [threading](https://docs.python.org/3/library/threading.html) module to manage threads
-  * [multiprocessing](https://docs.python.org/3/library/multiprocessing.html) or [multiprocess](https://pypi.org/project/multiprocess/) module to manage processes
-  * other interesting modules: [csv](https://docs.python.org/3/library/csv.html), [json](https://docs.python.org/3/library/json.html#module-json), [argparse](https://docs.python.org/3/library/argparse.html)
+* [python modules](https://docs.python.org/3/library/index.html):rithmetic
+  * [csv](https://docs.python.org/3/library/csv.html),
+    [json](https://docs.python.org/3/library/json.html#module-json),
+    [argparse](https://docs.python.org/3/library/argparse.html),
+    [threading](https://docs.python.org/3/library/threading.html),
+    [multiprocessing](https://docs.python.org/3/library/multiprocessing.html) (or [multiprocess](https://pypi.org/project/multiprocess/))
+  * [decimal](https://docs.python.org/3/library/decimal.html#module-decimal) provides support for fast correctly rounded decimal floating-point a
 
 _(last update 26.10.2026)_

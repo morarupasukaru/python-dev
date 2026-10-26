@@ -11,14 +11,11 @@ Compilation of resources &amp; docs about development with Python
 * other resources  
   * [Learn Python in Y minutes](https://learnxinyminutes.com/python/)
   * [Think Python](https://allendowney.github.io/ThinkPython/) by Allen B. Downey
-  * [The Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
-  * [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/) and [Awesome Python](https://awesome-python.com/)
-  * [hidden features of Python](https://stackoverflow.com/questions/101268/hidden-features-of-python)
-  * [recipes](https://code.activestate.com/recipes/langs/python/) 
+  * [Awesome Python](https://github.com/vinta/awesome-python)
   * [Projects of Raspberry Pi Foundation](https://projects.raspberrypi.org/en/)
   * [Python Essential Training](https://www.linkedin.com/learning/learning-python-25309312/learning-python?u=91308082) linkedin course
-  * ( [The Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/?couponCode=KEEPLEARNING) )
-  * ( [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?couponCode=MT261012G1) )
+  * [hidden features of Python](https://stackoverflow.com/questions/101268/hidden-features-of-python)
+  * [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/) and [The Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
 * tools 
   * [JupyterLab](https://jupyter.org/#jupyterlab-a-next-generation-notebook-interface) as web-based interactive development environment for notebooks, code, and data
 * informations

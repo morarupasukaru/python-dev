@@ -16,8 +16,6 @@ Compilation of resources &amp; docs about development with Python
   * [Python Essential Training](https://www.linkedin.com/learning/learning-python-25309312/learning-python?u=91308082) linkedin course
   * [hidden features of Python](https://stackoverflow.com/questions/101268/hidden-features-of-python)
   * [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/) and [The Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
-* tools 
-  * [JupyterLab](https://jupyter.org/#jupyterlab-a-next-generation-notebook-interface) as web-based interactive development environment for notebooks, code, and data
 * informations
   * .ipynb file are [jupyter notebooks](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) that combine Markdown text and executable Python source code on one canvas called a notebok (supported in github)
   * [defaultdict](https://docs.python.org/3/library/collections.html#collections.defaultdict) dict subclass that calls a factory function to supply missing values

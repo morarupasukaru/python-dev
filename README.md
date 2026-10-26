@@ -30,5 +30,6 @@ Compilation of resources &amp; docs about development with Python
   * [for else](https://docs.python.org/3/tutorial/controlflow.html#else-clauses-on-loops) pattern, the else clause is executed after the loop finishes its final iteration, that is, if no break occurred.
   * [threading](https://docs.python.org/3/library/threading.html) module to manage threads
   * [multiprocessing](https://docs.python.org/3/library/multiprocessing.html) or [multiprocess](https://pypi.org/project/multiprocess/) module to manage processes
+  * [csv](https://docs.python.org/3/library/csv.html) module
 
 _(last update 19.10.2026)_
